@@ -1,0 +1,23 @@
+Kafka has high throughput but less storage in comparison of DB which has low throughput but huge storage
+throughput means number of entries per second
+
+Kafka has number of terminologies like : 
+ - Consumer these consume the data that is produced also this can be client or server
+ - Producer from here the data is produced , it can be client, or server
+ - Topics these are the logical partitioning of messages also you can make partitions inside these topics as well
+
+Architecture : 
+- When producer produces a message it defines that this message is for which topic 
+FOR RUNNNIG ZOOKEEPER
+-> sudo docker run -p 2181:2181 zookeeper
+
+FOR RUNNING KAFKA
+docker run -p 9092:9092 \
+-e KAFKA_ZOOKEEPER_CONNECT=10.10.2.13:2181 \        -e for environment variables
+-e KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://10.10.2.13:9092 \
+-e KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1 \
+confluentinc/cp-kafka
+
+
+Zookeeper default PORT : 2181
+Kafka default PORT : 9092
