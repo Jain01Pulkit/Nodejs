@@ -1,0 +1,12 @@
+20230125	15:21:18	6748214c-d4bb-4c97-bb39-274909f5b5c1	Error: Not allowed by CORS
+20230125	15:21:18	97d184da-156f-49f3-9bae-1c5e3f257a50	Error: Not allowed by CORS
+20230131	13:14:33	a411bf58-4341-453a-b17b-ed2b41c1d7f4	ReferenceError: json is not defined
+20230131	13:14:48	fdcc3109-409c-44f4-b9db-b055635d7695	ReferenceError: json is not defined
+20230131	13:15:05	cb0eaf06-069e-43e1-ab3a-95bdedbb50ac	ReferenceError: json is not defined
+20230131	13:15:06	6671f52c-1b5a-4fd6-aca8-4bf7d812028f	ReferenceError: json is not defined
+20230131	13:16:09	c33fa092-5e6a-48f9-83c4-de01ada9b79d	ReferenceError: json is not defined
+20230131	13:16:10	996a90cd-660f-479f-ba74-df12c2c0698f	ReferenceError: json is not defined
+20230131	13:16:23	8e9e91e3-80dd-49ef-8179-08116dfd3283	ReferenceError: json is not defined
+20230329	16:07:30	55df5909-b0b6-4aa2-ba73-dcadc17dca31	TypeError: res.sendSattus is not a function
+20230329	16:18:13	d4e74841-22c9-447a-a556-1b140fd65300	ReferenceError: token is not defined
+20230406	12:05:27	2e7fdb03-f577-45e6-b609-6be2f4df190e	TypeError: res.sendstatus is not a function

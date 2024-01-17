@@ -1,0 +1,20 @@
+[
+  {
+    "username": "walt2",
+    "roles": {
+      "User": 2001,
+      "Editor": 1984
+    },
+    "password": "$2b$10$pnqxIJExoH.GTEcBtW32U.7LodG2VqWd5qgTpFG8PQFWBIQgJi85u"
+  },
+  {
+    "username": "walt1",
+    "roles": {
+      "User": 2001,
+      "Editor": 1984,
+      "Admin": 5150
+    },
+    "password": "$2b$10$7Rzq8poSY0x.10o5QnHb/eh783UbTmLBaf.q/Zy/7GT1YmFimqx5W",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndhbHQxIiwiaWF0IjoxNjgwNzYzMDU0LCJleHAiOjE2ODA4NDk0NTR9.blQ4hu9eHYFg8ez6q6umUNIRVowRzaOAn8ZCVfXaUkc"
+  }
+]
